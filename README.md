@@ -37,7 +37,7 @@ mkdir ~/go/bin
 mkdir ~/go/src
 ```
 
-Download and install Protoc 3.13 for your OS (optional)
+Download and install Protoc 3.20.2 for your OS
 ```
 open https://github.com/protocolbuffers/protobuf/releases/tag/v3.20.3
 wget [protoc-3.20.3-osx-x86_64.zip](https://github.com/protocolbuffers/protobuf/releases/download/v3.20.3/protoc-3.20.3-osx-x86_64.zip)
